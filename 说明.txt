@@ -1,0 +1,2 @@
+使用myeclipse导入工程，数据库使用MySQL，数据库用户名为root 密码为空
+部署成功后使用Tomcat发布到本地服务器 例如http://localhost:8080/blog/index.html
